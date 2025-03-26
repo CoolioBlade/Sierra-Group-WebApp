@@ -1,0 +1,399 @@
+[
+  {
+    "ICAO": "AIA",
+    "Airline Name": "Australian International Airways",
+    "IATA": "AU",
+    "Radio": "AUSSIE",
+    "Parent Co.": "AIJ",
+    "BG Color": "#7a0a5b",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "AIJ",
+    "Airline Name": "Asuka International Airways",
+    "IATA": "AJ",
+    "Radio": "SAKURA",
+    "Parent Co.": "AIJ",
+    "BG Color": "#880649",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "AIK",
+    "Airline Name": "Asuka International Airways Korea",
+    "IATA": "AK",
+    "Radio": "SEOUL",
+    "Parent Co.": "AIJ",
+    "BG Color": "#215399",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "AIX",
+    "Airline Name": "Asuka Express",
+    "IATA": "AX",
+    "Radio": "HANA",
+    "Parent Co.": "AIJ",
+    "BG Color": "#880649",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "AOI",
+    "Airline Name": "Aoi Umi",
+    "IATA": "AO",
+    "Radio": "UMI",
+    "Parent Co.": "AIJ",
+    "BG Color": "#51328d",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "SAK",
+    "Airline Name": "Sakura Airways",
+    "IATA": "KI",
+    "Radio": "KI",
+    "Parent Co.": "AIJ",
+    "BG Color": "#ee376b",
+    "Text Color": "#ffffff"
+  },
+ 
+  {
+    "ICAO": "EAU",
+    "Airline Name": "Eurair America",
+    "IATA": "0U",
+    "Radio": "EURAIR AMERICA",
+    "Parent Co.": "EUA",
+    "BG Color": "#ffffff",
+    "Text Color": "#1d4aa8"
+  },
+  {
+    "ICAO": "EUA",
+    "Airline Name": "Eurair Teoranta",
+    "IATA": "GN",
+    "Radio": "GUINNESS",
+    "Parent Co.": "EUA",
+    "BG Color": "#ffffff",
+    "Text Color": "#59d028"
+  },
+  {
+    "ICAO": "ARX",
+    "Airline Name": "Aerolíneas Benjellos",
+    "IATA": "AG",
+    "Radio": "ARGENTINE",
+    "Parent Co.": "FYA",
+    "BG Color": "#5b9bd5",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "AMA",
+    "Airline Name": "American Connections",
+    "IATA": "MA",
+    "Radio": "AMCON",
+    "Parent Co.": "FYA",
+    "BG Color": "#ff0000",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "BAA",
+    "Airline Name": "British Atlantic Airlines",
+    "IATA": "BL",
+    "Radio": "BRITISH-ATLANTIC",
+    "Parent Co.": "FYA",
+    "BG Color": "#120066",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "CRW",
+    "Airline Name": "Caribbean Wings",
+    "IATA": "CB",
+    "Radio": "CARIBBEAN",
+    "Parent Co.": "FYA",
+    "BG Color": "#1396d7",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "ECH",
+    "Airline Name": "Echo Airlines",
+    "IATA": "EA",
+    "Radio": "ECHO",
+    "Parent Co.": "FYA",
+    "BG Color": "#094867",
+    "Text Color": "#00c6ee"
+  },
+  {
+    "ICAO": "EUR",
+    "Airline Name": "Euroshuttle",
+    "IATA": "EL",
+    "Radio": "EUROSHUTTLE",
+    "Parent Co.": "FYA",
+    "BG Color": "#00c6ee",
+    "Text Color": "#094867"
+  },
+  {
+    "ICAO": "FYA",
+    "Airline Name": "Fly America",
+    "IATA": "FA",
+    "Radio": "FLY AMERICA",
+    "Parent Co.": "FYA",
+    "BG Color": "#6c0000",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "AFX",
+    "Airline Name": "FYA Africa",
+    "IATA": "FC",
+    "Radio": "SKIPPER",
+    "Parent Co.": "FYA",
+    "BG Color": "#12853f",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "GLF",
+    "Airline Name": "FYA Arabia",
+    "IATA": "RX",
+    "Radio": "ARABIAN BEE",
+    "Parent Co.": "FYA",
+    "BG Color": "#580000",
+    "Text Color": "#d4af37"
+  },
+  {
+    "ICAO": "CND",
+    "Airline Name": "FYA Canada",
+    "IATA": "NC",
+    "Radio": "MAPLE",
+    "Parent Co.": "FYA",
+    "BG Color": "#d63255",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "INX",
+    "Airline Name": "FYA Indimix",
+    "IATA": "IX",
+    "Radio": "INDIMIX",
+    "Parent Co.": "FYA",
+    "BG Color": "#003300",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "NHY",
+    "Airline Name": "FYA Nightflyer",
+    "IATA": "NY",
+    "Radio": "NIGHTFLYER",
+    "Parent Co.": "FYA",
+    "BG Color": "#1a0029",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "SND",
+    "Airline Name": "FYA Nordic",
+    "IATA": "NS",
+    "Radio": "NORTH STAR",
+    "Parent Co.": "FYA",
+    "BG Color": "#ffffff",
+    "Text Color": "#000000"
+  },
+  {
+    "ICAO": "OCX",
+    "Airline Name": "FYA Oceania",
+    "IATA": "OX",
+    "Radio": "SO PAC",
+    "Parent Co.": "FYA",
+    "BG Color": "#4472c4",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "ASX",
+    "Airline Name": "FYA Shuttle",
+    "IATA": "SH",
+    "Radio": "SHUTTLE",
+    "Parent Co.": "FYA",
+    "BG Color": "#ff6600",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "FYC",
+    "Airline Name": "FYA SkyCargo",
+    "IATA": "FS",
+    "Radio": "SKYCARGO",
+    "Parent Co.": "FYA",
+    "BG Color": "#b7b7b7",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "LSO",
+    "Airline Name": "Luso Atlantic Airlines",
+    "IATA": "LT",
+    "Radio": "LUSO",
+    "Parent Co.": "FYA",
+    "BG Color": "#302d43",
+    "Text Color": "#c99475"
+  },
+  {
+    "ICAO": "NXA",
+    "Airline Name": "Northern Atlantic Airlines",
+    "IATA": "NX",
+    "Radio": "AURORA",
+    "Parent Co.": "FYA",
+    "BG Color": "#000000",
+    "Text Color": "#66ffff"
+  },
+  {
+    "ICAO": "NPA",
+    "Airline Name": "Northern Pacific Airlines",
+    "IATA": "NP",
+    "Radio": "KLONDIKE",
+    "Parent Co.": "FYA",
+    "BG Color": "#000000",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "SIJ",
+    "Airline Name": "sierraJet",
+    "IATA": "SJ",
+    "Radio": "BUONAPARTE",
+    "Parent Co.": "Independent",
+    "BG Color": "#212121",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "WIF",
+    "Airline Name": "Widerøe",
+    "IATA": "WF",
+    "Radio": "WIDEROE",
+    "Parent Co.": "Independent",
+    "BG Color": "#208225",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "AAI",
+    "Airline Name": "Aer Arran Islands",
+    "IATA": "-",
+    "Radio": "-",
+    "Parent Co.": "Kingdom",
+    "BG Color": "#ff8100",
+    "Text Color": "#0003d9"
+  },
+  {
+    "ICAO": "AUR",
+    "Airline Name": "Aurigny",
+    "IATA": "GR",
+    "Radio": "AYLINE",
+    "Parent Co.": "Kingdom",
+    "BG Color": "#ffffff",
+    "Text Color": "#1e548d"
+  },
+  {
+    "ICAO": "BCI",
+    "Airline Name": "Blue Islands",
+    "IATA": "SI",
+    "Radio": "-",
+    "Parent Co.": "Kingdom",
+    "BG Color": "#ffffff",
+    "Text Color": "#2976c8"
+  },
+  {
+    "ICAO": "DCT",
+    "Airline Name": "Directflight",
+    "IATA": "-",
+    "Radio": "AIRTASK",
+    "Parent Co.": "Kingdom",
+    "BG Color": "#00009c",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "HBR",
+    "Airline Name": "Hebridean Air Services",
+    "IATA": "-",
+    "Radio": "HEBRIDEAN",
+    "Parent Co.": "Kingdom",
+    "BG Color": "#ffffff",
+    "Text Color": "#ffd014"
+  },
+  {
+    "ICAO": "IOM",
+    "Airline Name": "Islandman Ltd",
+    "IATA": "-",
+    "Radio": "-",
+    "Parent Co.": "Kingdom",
+    "BG Color": "#ffffff",
+    "Text Color": "#c91533"
+  },
+  {
+    "ICAO": "IOS",
+    "Airline Name": "Skybus",
+    "IATA": "-",
+    "Radio": "SCILLONIA",
+    "Parent Co.": "Kingdom",
+    "BG Color": "#ffffff",
+    "Text Color": "#797979"
+  },
+  {
+    "ICAO": "OII",
+    "Airline Name": "Orkney Interisland",
+    "IATA": "-",
+    "Radio": "-",
+    "Parent Co.": "Kingdom",
+    "BG Color": "#ffffff",
+    "Text Color": "#c91533"
+  },
+  {
+    "ICAO": "SHA",
+    "Airline Name": "St Helena Aviation",
+    "IATA": "-",
+    "Radio": "-",
+    "Parent Co.": "Kingdom",
+    "BG Color": "#ffffff",
+    "Text Color": "#c91533"
+  },
+  {
+    "ICAO": "WIA",
+    "Airline Name": "Winair",
+    "IATA": "WM",
+    "Radio": "WINDWARD",
+    "Parent Co.": "Kingdom",
+    "BG Color": "#ffffff",
+    "Text Color": "#c91533"
+  },
+  {
+    "ICAO": "ANP",
+    "Airline Name": "Air Naples",
+    "IATA": "2A",
+    "Radio": "NAPOLI",
+    "Parent Co.": "LGU",
+    "BG Color": "#ffffff",
+    "Text Color": "#7f7f7f"
+  },
+  {
+    "ICAO": "LGU",
+    "Airline Name": "Liguriair",
+    "IATA": "L1",
+    "Radio": "LIGURIAIR",
+    "Parent Co.": "LGU",
+    "BG Color": "#02045e",
+    "Text Color": "#ffffff"
+  },
+  {
+    "ICAO": "LIF",
+    "Airline Name": "Loyauté",
+    "IATA": "U9",
+    "Radio": "LOYAUTÉ",
+    "Parent Co.": "LGU",
+    "BG Color": "#ffffff",
+    "Text Color": "#ffd347"
+  },
+  {
+    "ICAO": "TGS",
+    "Airline Name": "Tha Ringsa",
+    "IATA": "J5",
+    "Radio": "RINGSA",
+    "Parent Co.": "LGU",
+    "BG Color": "#ffffff",
+    "Text Color": "#7878ff"
+  },
+  {
+    "ICAO": "WBA",
+    "Airline Name": "West Bearing Aviation",
+    "IATA": "W0",
+    "Radio": "WESTBEARING",
+    "Parent Co.": "LGU",
+    "BG Color": "#ffffff",
+    "Text Color": "#02045e"
+  }
+]
